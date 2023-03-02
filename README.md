@@ -9,7 +9,7 @@ video
 Tinder is an online dating and geosocial networking application. In Tinder, users "swipe right" to like or "swipe left" to dislike other users' profiles, which include their photos, a short bio, and a list of their interests.
 
 
-# The scope of the project
+# Scope of the Project 🚧
 
 Analyse quickly all the given datas
 
