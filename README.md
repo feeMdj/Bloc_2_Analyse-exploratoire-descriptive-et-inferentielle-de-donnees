@@ -18,6 +18,6 @@ Ask 2 questions after your analyse and answer it using Data Vizualisation tools 
      
 ## Files:
 You'll find these files in the repository:
-  - SpeeDating.ipynb
-  - - Speed_Dating_Data.csv: dataset
-
+  - SpeeDating.ipynb: the notebook
+  - SpeedDatingData.csv: dataset
+  - Speed Dating Data Key.doc: description of the columns
