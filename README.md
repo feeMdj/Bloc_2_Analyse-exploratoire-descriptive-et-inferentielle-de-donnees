@@ -1,7 +1,8 @@
 # Bloc_2
 Analyse exploratoire, descriptive et inférentielle de données
 
-video
+## VIDEO
+[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/FPLE4fLLmzRCBBuxaDTLe5?)
 
 # Speed Dating with Tinder
 ![image](https://user-images.githubusercontent.com/115455973/222427428-0d125055-7db4-4230-b13e-7c4141d14f5a.png)
