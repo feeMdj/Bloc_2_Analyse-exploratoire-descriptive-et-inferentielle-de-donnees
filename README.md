@@ -1,5 +1,5 @@
 # Bloc_2
-Analyse exploratoire, descriptive et inférentielle de données
+## Analyse exploratoire, descriptive et inférentielle de données
 
 ## VIDEO
 [LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/FPLE4fLLmzRCBBuxaDTLe5?)
