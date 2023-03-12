@@ -1,4 +1,4 @@
-# Bloc_2
+# Bloc 2
 ## Analyse exploratoire, descriptive et inférentielle de données
 
 ## VIDEO
